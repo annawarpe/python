@@ -1,5 +1,5 @@
 a=[3,1,2]
-printal)
+print(a)
 b=[4,6,5]
 print(b)
 a.sort()
