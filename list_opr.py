@@ -1,0 +1,16 @@
+a=[1,2,3,4,5]
+print(a)
+a.append(6)
+print(a)
+a.pop()
+print(a)
+a.reverse()
+print(a)
+a.remove(4)
+print(a)
+a.sort()
+print(a)
+b=[7,8,9]
+print(b)
+a.append(b)
+print(a)
